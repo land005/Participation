@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Participation 1", "Participation 1\Participation 1.csproj", "{A281A895-E62F-4494-BF0B-A3CEE5854F44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Participation 1", "Participation 1\Participation 1.csproj", "{A281A895-E62F-4494-BF0B-A3CEE5854F44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesInputConversionFormatting_Example", "..\..\MIS-3013-003-FollowAlong\VariablesInputConversionFormatting_Example\VariablesInputConversionFormatting_Example\VariablesInputConversionFormatting_Example.csproj", "{CDEFBFF9-07D3-45FE-8A29-948F9E55157D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A281A895-E62F-4494-BF0B-A3CEE5854F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A281A895-E62F-4494-BF0B-A3CEE5854F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A281A895-E62F-4494-BF0B-A3CEE5854F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDEFBFF9-07D3-45FE-8A29-948F9E55157D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEFBFF9-07D3-45FE-8A29-948F9E55157D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEFBFF9-07D3-45FE-8A29-948F9E55157D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEFBFF9-07D3-45FE-8A29-948F9E55157D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
